@@ -17,6 +17,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-url: "https://tarcube.github.io" # Your GitHub Pages root URL
-baseurl: "/tarblog"       # Your exact repository name (must start with a slash)
