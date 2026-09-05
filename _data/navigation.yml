@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /tarblog/
 - name: About
-  link: /about.html
+  link: /tarblog/about.html
 - name: Blog
-  link: /blog.html
+  link: /tarblog/blog.html
 - name: Staff
-  link: /staff.html
+  link: /tarblog/staff.html

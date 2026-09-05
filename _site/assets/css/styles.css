@@ -2,4 +2,9 @@
   color: green;
 }
 
+.small-thumb {
+  width: 150px;
+  height: auto;
+}
+
 /*# sourceMappingURL=styles.css.map */
