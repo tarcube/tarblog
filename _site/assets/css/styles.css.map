@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE;;;AAEF;EACE;EACA","sourcesContent":[".current {\r\n  color: green;\r\n}\r\n.small-thumb {\r\n  width: 150px;\r\n  height: auto;\r\n}"],"file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE;;;AAEF;EACE;EACA;EACA","sourcesContent":[".current {\r\n  color: green;\r\n}\r\n.small-thumb {\r\n  max-width: 200px;\r\n  width: 150px;\r\n  height: auto;\r\n}"],"file":"styles.css"}
